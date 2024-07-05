@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Everything**
 
-- 📫 How to reach me **Discord: neginadg**
+- 📫 How to reach me - **Discord: neginadg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
