@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Negin</h1>
 <h3 align="center">Front-End Developer And Software Engineering Student</h3>
 
-- 🌱 I’m currently learning **JavaScript, React, ASP.NET**
+- 🌱 I’m currently learning **JavaScript, React**
 
 - 💬 Ask me about **Everything**
 
